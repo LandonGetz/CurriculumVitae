@@ -1,0 +1,16 @@
+KONICA MINOLTA bizhub 4750 Series Linux inprimagailuaren kontrolatzailea
+============================================
+3.0.0 bertsioa
+
+- «Erabiltzaile izena» eta «Fitxategi izena» ez dira bistaratzen PageScopeWebConnection-eko «Lan aktiboen zerrenda» taulan.
+
+- B5 (ISO) paperaren tamaina ezin da Linux ingurunean hautatu. Horren ordez, B5 (JIS) hautatzen da.
+
+- Gutun-azala#10entzat Banner orrialdea hautatzen bada, testuak ertzaren muga gaindituko du.
+
+
+------------------------------------------------------------
+Copyright (C) 2015 KONICA MINOLTA, INC.
+Eskubide guztiak erreserbatuta.
+
+

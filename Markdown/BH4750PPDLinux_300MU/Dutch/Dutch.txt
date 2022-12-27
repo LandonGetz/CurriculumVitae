@@ -1,0 +1,16 @@
+KONICA MINOLTA bizhub 4750 Series Linux Printer Driver
+============================================
+Ver. 3.0.0
+
+- De "Gebruikersnaam" en "Bestandsnaam" worden niet getoond in "Actieve Taaklijst"
+  van PageScopeWebConnection.
+
+- Het B5 (ISO) papierformaat kan niet vanuit de Linuxomgeving worden gekozen.
+  Inplaats daarvan wordt B5 (JIS) gekozen.
+
+- In geval dat een Bannerpagina bij Envelop#10 wordt gekozen, zal de tekst het kader
+  overschrijden.
+
+------------------------------------------------------------
+Copyright(C) 2015 KONICA MINOLTA, INC.
+Alle rechten voorbehouden.

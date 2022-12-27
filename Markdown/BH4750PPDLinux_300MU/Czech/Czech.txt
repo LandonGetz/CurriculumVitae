@@ -1,0 +1,18 @@
+Ovladaè tiskárny KONICA MINOLTA bizhub 4750 Series pro Linux
+================================================
+Ver. 3.0.0
+
+- Polo¾ky "Jméno u¾ivatele" a "Název souboru" se 
+  nezobrazují v "Seznamu aktivních úloh" aplikace
+  PageScope Web Connection.
+
+- V prostøedí Linux nelze zvolit formát papíru 
+  B5 (ISO). Místo nìj se volí formát B5 (JIS).
+
+- Pokud je pro Obálku # 10 zvoleno nastavení 
+  BannerPage, pøesáhne text okraje.
+
+
+------------------------------------------------------------
+Copyright(C) 2015 KONICA MINOLTA, INC.
+Ve¹kerá práva vyhrazena.

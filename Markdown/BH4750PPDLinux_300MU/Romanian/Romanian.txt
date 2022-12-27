@@ -1,0 +1,16 @@
+Driver imprimantã KONICA MINOLTA bizhub 4750 Series pentru Linux
+
+============================================
+
+Ver. 3.0.0
+
+- “Nume utilizator” ºi “Nume fiºier” sunt indicate în “Listã sarcini active” a utilitarului PageScopeWebConnection.
+
+- Dimensiunea de hârtie B5 (ISO) nu poate fi selectatã din mediul Linux. B5 (JIS) este selectat în loc.
+
+- În cazul în care este selectatã Paginã baner pentru Plic#10, textul depãºeºte linia de chenar.
+
+------------------------------------------------------------
+
+Drept de autor(C) 2015 KONICA MINOLTA, INC.
+Toate drepturile rezervate.

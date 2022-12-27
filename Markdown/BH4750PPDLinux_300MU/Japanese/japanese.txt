@@ -1,0 +1,14 @@
+KONICA MINOLTA bizhub 4750 Series Linux Printer Driver
+============================================
+Ver. 1.0.0
+
+- PageScopeWebConnection -「処理中ジョブリスト」の "ユーザ名" 、 "ファイル名" は表示されません。
+
+- Linux環境では B5 (ISO) で印刷することができません。 B5 (JIS) が選択されます。
+
+- Envelope#10、バナーページを選択した場合、ボーダーラインが切れて印刷されます。
+
+
+------------------------------------------------------------
+Copyright(C) 2013 KONICA MINOLTA, INC.
+All rights reserved.

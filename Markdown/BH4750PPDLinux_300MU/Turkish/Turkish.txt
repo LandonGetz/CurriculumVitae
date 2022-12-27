@@ -1,0 +1,14 @@
+KONICA MINOLTA bizhub 4750 Series Linux Yazýcý Sürücüsü
+============================================
+Ver. 3.0.0
+
+- "User Name" ve "File Name", PageScopeWebConnection "Active Job List" menüsünde gösterilmez.
+
+- B5 (ISO) kaðýt ebadý, Linux çevrebiriminde seçilemez. Bunun yerine B5 (JIS) seçilir.
+
+- Zarf#10 için Banner Sayfasý seçilmesi durumunda, metin kenar çizgisini aþar.
+
+
+------------------------------------------------------------
+Telif Hakký 2015 KONICA MINOLTA, INC.
+Tüm haklarý saklýdýr.

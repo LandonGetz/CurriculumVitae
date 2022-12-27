@@ -1,0 +1,14 @@
+Linux-skrivardrivrutin till KONICA MINOLTA bizhub 4750 Series Linux
+=======================================================
+Ver. 3.0.0
+
+- "Användarnamn" och "Filnamn" visas inte i "Aktiva jobb" i PageScope Web Connection.
+
+- Pappersformatet B5 (ISO) går inte att välja i Linux. B5 (JIS) väljs i stället.
+
+- Om du väljer Bannersida för #10-kuvert hamnar texten utanför kantlinjen.
+
+
+------------------------------------------------------------
+Copyright(C) 2015 KONICA MINOLTA, INC.
+Med ensamrätt.

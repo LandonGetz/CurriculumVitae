@@ -1,0 +1,14 @@
+KONICA MINOLTA bizhub 4750 Series Linux -tulostinohjain
+===========================================
+Versio 3.0.0
+
+- Käyttäjätunnus ja tiedostonimi eivät näy PageScopeWebConnectionin aktiivisten töiden luettelossa.
+
+- B5 (ISO) -paperikokoa ei voi valita Linux-ympäristössä. Sen sijasta valitaan B5 (JIS).
+
+- Jos kirjekuorelle #10 valitaan BannerPage-asetus, teksti ylittää reunusrajan.
+
+
+------------------------------------------------------------
+Tekijänoikeudet (C) 2015 KONICA MINOLTA, INC.
+Kaikki oikeudet pidätetään.  

@@ -1,0 +1,15 @@
+KONICA MINOLTA bizhub 4750 Series Linux skriverdriver
+==========================================
+Ver. 3.0.0
+
+
+- "Brukernavn" og "Filnavn" vises ikke i "Activ jobb-liste" i PageScopeWebConnection.
+
+- Papirformatet B5 (ISO) kan ikke velges fra Linux-miljø. B5 (JIS) velges isteden.
+
+- Hvis BannerPage velges for Envelope#10, vil teksten gå ut over kantlinjen.
+
+
+------------------------------------------------------------
+Copyright(c) 2015 KONICA MINOLTA, INC.
+Med enerett.
