@@ -78,70 +78,59 @@ $\\$
   \item \textbf{Getz, L.J.} (2017) "A Genetic Switch Controls the Type III Secretion System Master Regulator, ExsA, in \textit{Vibrio parahaemolyticus} RIMD2210633". \textit{B.Sc. (Hons)} Dalhousie University, Halifax, NS, Canada.
 \end{etaremune}
 
+## Commentary
+
+\begin{etaremune}
+\renewcommand\labelenumi{\bfseries\theenumi .}
+\item Baylis, F., \textbf{Getz, L.J.} (2021). [Challenge studies for COVID-19: Now is still not the time.](https://blogs.bmj.com/medical-ethics/2021/04/27/challenge-studies-for-covid-19-now-is-still-not-the-time/) JME Blog
+\item \textbf{Getz, L.J.}, Baylis, F. (2021). [Challenge studies for COVID-19: Now is not the time.](https://blogs.bmj.com/medical-ethics/2021/04/06/challenge-studies-for-covid-19-now-is-not-the-time/) JME Blog
+\item \textbf{Getz, L.J.}, Baylis, F. (2020). [Canada should reject the idea of deliberately infecting vaccine volunteers.](https://policyoptions.irpp.org/magazines/november-2020/canada-should-reject-the-idea-of-deliberately-infecting-vaccine-volunteers/) PolicyOptions.ca.
+\item Baylis, F., \textbf{Getz, L.J.} (2020). [Why federal government should reject human challenge trials for COVID-19 vaccine.](https://www.cbc.ca/news/opinion/opinion-covid-vaccine-human-challenge-trials-1.5790713) CBC Opinion.
+\item Qaiser, F., Morriseau, T., Rilling, M., Cartile, A., Sung, M., \textbf{Getz, L.J.}, Boulanger, M-E. (2020). [Envisioning A Post-Pandemic Future in the Canadian Science Community: A Youth Perspective.](https://sciencepolicy.ca/posts/envisioning-a-post-pandemic-future-in-the-canadian-science-community-a-youth-perspective/) Canadian Science Policy Conference 2020.
+\item Baylis, F., \textbf{Getz, L.J.} (2020). [Rush to risky chellenge trials is unethical.](https://healthydebate.ca/2020/10/topic/risky-challenge-trials-unethical/) HealthyDebate.ca.
+\item \textbf{Getz, L.J.} (2020). [Rushing coronavirus vaccines and treatments could do more harm than good.](https://theconversation.com/rushing-coronavirus-vaccines-and-treatments-could-do-more-harm-than-good-136449) TheConversation.ca, Republished in Everything Zoomer, and Dal News.
+\item Kofler, N., \textbf{Getz, L.J.}, Baylis, F., Dellaire, G. (2019). [Genetically modifying mosquitoes to control the spread of disease carries unknown risks.](https://theconversation.com/genetically-modifying-mosquitoes-to-control-the-spread-of-disease-carries-unknown-risks-123862) TheConversation.ca, republished in Salon, HalifaxToday.ca, SaltWire Newspapers, and Gannett Newspapers.
+\item \textbf{Getz, L.J.}, Dellaire, G. (2019). [Moratorium on Human Genome Editing: Time to Get It Right.](https://www.thehastingscenter.org/moratorium-on-human-genome-editing-time-to-get-it-right/) The Hastings Center Forum Blog.
+\item  \textbf{Getz, L.J.}, Dellaire, G. (2019). [CRISPR gene editing: Why we need Slow Science.](https://theconversation.com/crispr-gene-editing-why-we-need-slow-science-113639) The Conversation.ca.
+\item  \textbf{Getz, L.J.} (2019). [The "Value" of Consumer DNA Sequencing.](https://impactethics.ca/2019/02/28/the-value-of-consumer-dna-sequencing/) Impact Ethics at Novel Tech Ethics.
+\item  \textbf{Getz, L.J.}, Dellaire, G., Baylis, F. (2018). [Jiankui He: A Sorry Tale of High-Stakes Science.](https://www.thehastingscenter.org/jiankui-sorry-tale-high-stakes-science/) The Hastings Center Forum Blog.
+\item  Baylis, F., Dellaire, G., \textbf{Getz, L.J.} (2018). [Why we are not ready for genetically designed babies.](https://theconversation.com/why-we-are-not-ready-for-genetically-designed-babies-107756) The Conversation.ca. Reprinted in: The National Post and the Halifax Chronicle Herald.
+\item  \textbf{Getz, L.J.} (2018). [Thicker Than Water: Slow Movement on Blood Policy.](https://impactethics.ca/2018/10/26/thicker-than-water-slow-movement-on-blood-policy/) Impact Ethics at Novel Tech Ethics.
+\item  \textbf{Getz, L.J.} (2018). [The Privacy Implications of Human DNA Sequencing.](https://impactethics.ca/2018/05/11/the-privacy-implications-of-human-dna-sequencing/) Impact Ethics at Novel Tech Ethics.
+\item  \textbf{Getz, L.J.} (2017). [A Reflection on Blood Donation Policy in Canada.](https://impactethics.ca/2017/08/24/a-reflection-on-blood-donation-policy-in-canada/) Impact Ethics at Novel Tech Ethics. Reprinted at the Kennedy Institute of Ethics Bioethics Blog.
+\end{etaremune}
+
 ## Abstracts
 
-  1. **Getz, L.J.**, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A. (2021). DNA Cruciforms Regulate Virulence in Pathogenic *Vibrio* Species. 70th Annual Conference of the Canadian Society of Microbiologists, Remote - June 2021.
+\begin{etaremune}
+\renewcommand\labelenumi{\bfseries\theenumi .}
+ \item \textbf{Getz, L.J.}, Maxwell, K.L. (2022). The Best Defence is a Good Offence: Understanding Antiphage Defence in \textit{V. parahaemolyticus} for more Effective Phage Therapy. 2022 QAtCanSTEM Colloquium, Halifax, NS. - October 2022
+ \item \textbf{Getz, L.J.}, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A. (2021). DNA Cruciforms Regulate Virulence in Pathogenic \textit{Vibrio} Species. 70th Annual Conference of the Canadian Society of Microbiologists, Remote - June 2021.
+ \item \textbf{Getz, L.J.}, Thomas. N.A. (2020). Functional genomics of \textit{Vibrio} pathogenesis and environmental persistence. 2020 Canadian Student Health Research Forum.
+ \item \textbf{Getz, L.J.}, Brown, J., Thomas, N.A. (2019). Type III Secretion System Gene Expression and Virulence is Regulated by a DNA Cruciform Structure at the \textit{exsA} promoter in \textit{Vibrio parahaemolyticus}, Genomes to Biology: the 8th International Conference on the Biology of Vibrios, McGill University, Montreal, QC. - November 2019
+ \item \textbf{Getz, L.J.}, Brown, J., Thomas, N.A. (2019). A DNA junction superstructure regulates Type III Secretion System gene expression and virulence in \textit{Vibrio parahaemolyticus}, The 69th Annual Conference of the Canadian Society of Microbiologists, Université de Sherbrooke, Sherbrooke, QC. - June 2019
+ \item \textbf{Getz, L.J.}, Thomas, N.A. (2018). Flipping the Switch on Bacterial Pathogenesis: How the Leading Cause of Seafood-borne Gastroenteritis - \textit{Vibrio parahaemolyticus} - Regulates Virulence, LGBTSTEMinar 2019, Institute of Physics, London, UK. - January 2019
+ \item \textbf{Getz, L.J.}, Comeau, A., Langille, M.G.I., Thomas, N.A. (2018). Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing, PREP Graduate Student Research Day, Dalhousie University, Halifax, NS. - May 2018
+ \item \textbf{Getz, L.J.}, Comeau, A., Langille, M.G.I., Thomas, N.A. (2018). Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing, 23rd Annual Infectious Disease Research Day, Dalhousie University, Halifax, NS. - Apr 2018
+ \item \textbf{Getz, L.J.}, Thomas, N.A. (2017). HlyU and H-NS Act as a Genetic Switch for Transcriptional Control of the Type III Secretion System-I Master Regulator \textit{exsA}, ASM Vibrio2017: The Biology of \textit{Vibrios}, Chicago, IL. - November 2017
+ \item \textbf{Getz, L.J.}, Thomas, N.A. (2017). Discovery of a Genetic Switch in {Vibrio parahaemolyticus} That Contributes to Host Cell Death During Infection, 22nd Annual Infectious Disease Research Day, Dalhousie University, Halifax, NS. - March 2017
+ \item \textbf{Getz, L.J.}, Finlayson-Trick, E.C.L., Hagar, M. Slaine, P.D., Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z.A ‘spike’ in biofuel production: mining the porcupine microbiome to engineer a softwood feedstock platform, Giant Jamboree Abstract Guide, iGEM Giant Jamboree, Boston, MA. - October 2016
+\end{etaremune}
 
-  2. **Getz, L.J.**, Thomas. N.A. (2020). Functional genomics of Vibrio pathogenesis and environmental persistence. 2020 Canadian Student Health Research Forum.
+# Conference Presentations
 
-  3. **Getz, L.J.**, Brown, J., Thomas, N.A. (2019). Type III Secretion System Gene Expression and Virulence is Regulated by a DNA Cruciform Structure at the exsA promoter in Vibrio parahaemolyticus, Genomes to Biology: the 8th International Conference on the Biology of Vibrios, McGill University, Montreal, QC. - November 2019
+## Invited Talks
 
-  4. **Getz, L.J.**, Brown, J., Thomas, N.A. (2019). A DNA junction superstructure regulates Type III Secretion System gene expression and virulence in Vibrio parahaemolyticus, The 69th Annual Conference of the Canadian Society of Microbiologists, Université de Sherbrooke, Sherbrooke, QC. - June 2019
+\begin{etaremune}
+\renewcommand\labelenumi{\bfseries\theenumi .}
+ \item \textbf{2022 Armand Frappier Outstanding Graduate Student Award Talk} - Attenuation of DNA Cruciform Structures by a Conserved Regulator Directs VIrulence Gene Expression in Pandemic \textit{Vibrio}. University of Guelph, Guelph, ON. June 2022.
+ \item \textbf{2022 Al Downe Memorial Lecture} - Editing Nature: Genetically Modified Mosquitoes and a Case for Slow Science - Queen's University, Kingston, ON. March 2022.
+ \item Transposon Sequencing: Functional Genomics for Probing Bacterial Pathogenesis. Genomics in Medicine - Emerging Technologies and Bioinformatic Challenges, Dalhousie University, Halifax, NS. Invited Talk. December 2019.
+ \item \textit{Vibrio parahaemolyticus} and infection: A complex relationship between environment and host. Graduate Student Research Day Excellence in Research Award, Dalhousie University, Halifax, NS. Keynote. May 2019
+ \item The Multimodel Lifestyle of Marine \textit{Vibrio}. Natural History Museum Life Science Seminar Series, Natural History Museum, London, UK. January 2019
+\end{etaremune}
 
-  5. **Getz, L.J.**, Thomas, N.A. (2018). Flipping the Switch on Bacterial Pathogenesis: How the Leading Cause of Seafood-borne Gastroenteritis - Vibrio parahaemolyticus - Regulates Virulence, LGBTSTEMinar 2019, Institute of Physics, London, UK. - January 2019
-
-  6. **Getz, L.J.**, Comeau, A., Langille, M.G.I., Thomas, N.A. (2018). Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing, PREP Graduate Student Research Day, Dalhousie University, Halifax, NS. - May 2018
-
-  7. **Getz, L.J.**, Comeau, A., Langille, M.G.I., Thomas, N.A. (2018). Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing, 23rd Annual Infectious Disesase Research Day, Dalhousie University, Halifax, NS. - Apr 2018
-
-  8. **Getz, L.J.**, Thomas, N.A. (2017). HlyU and H-NS Act as a Genetic Switch for Transcriptional Control of the Type III Secretion System-I Master Regulator exsA, ASM Vibrio2017: The Biology of Vibrios, Chicago, IL. - November 2017
-
-  9. **Getz, L.J.**, Thomas, N.A. (2017). Discovery of a Genetic Switch in Vibrio parahaemolyticus That Contributes to Host Cell Death During Infection, 22nd Annual Infectious Disease Research Day, Dalhousie University, Halifax, NS. - March 2017
-
-  10. **Getz, L.J.**, Finlayson-Trick, E.C.L., Hagar, M. Slaine, P.D., Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z.A ‘spike’ in biofuel production: mining the porcupine microbiome to engineer a softwood feedstock platform, Giant Jamboree Abstract Guide, iGEM Giant Jamboree, Boston, MA. - October 2016
-
-# Commentary
-1. Baylis, F., **Getz, L.J.** (2021). [Challenge studies for COVID-19: Now is still not the time.](https://blogs.bmj.com/medical-ethics/2021/04/27/challenge-studies-for-covid-19-now-is-still-not-the-time/) JME Blog
-
-2. **Getz, L.J.**, Baylis, F. (2021). [Challenge studies for COVID-19: Now is not the time.](https://blogs.bmj.com/medical-ethics/2021/04/06/challenge-studies-for-covid-19-now-is-not-the-time/) JME Blog
-
-3. **Getz, L.J.**, Baylis, F. (2020). [Canada should reject the idea of deliberately infecting vaccine volunteers.](https://policyoptions.irpp.org/magazines/november-2020/canada-should-reject-the-idea-of-deliberately-infecting-vaccine-volunteers/) PolicyOptions.ca.
-
-4. Baylis, F., **Getz, L.J.** (2020). [Why federal government should reject human challenge trials for COVID-19 vaccine.](https://www.cbc.ca/news/opinion/opinion-covid-vaccine-human-challenge-trials-1.5790713) CBC Opinion.
-
-5. Qaiser, F., Morriseau, T., Rilling, M., Cartile, A., Sung, M., **Getz, L.J.**, Boulanger, M-E. (2020). [Envisioning A Post-Pandemic Future in the Canadian Science Community: A Youth Perspective.](https://sciencepolicy.ca/posts/envisioning-a-post-pandemic-future-in-the-canadian-science-community-a-youth-perspective/) Canadian Science Policy Conference 2020.
-
-6. Baylis, F., **Getz, L.J.** (2020). [Rush to risky chellenge trials is unethical.](https://healthydebate.ca/2020/10/topic/risky-challenge-trials-unethical/) HealthyDebate.ca.
-
-7. **Getz, L.J.** (2020). [Rushing coronavirus vaccines and treatments could do more harm than good.](https://theconversation.com/rushing-coronavirus-vaccines-and-treatments-could-do-more-harm-than-good-136449) TheConversation.ca, Republished in Everything Zoomer, and Dal News.
-
-8. Kofler, N., **Getz, L.J.**, Baylis, F., Dellaire, G. (2019). [Genetically modifying mosquitoes to control the spread of disease carries unknown risks.](https://theconversation.com/genetically-modifying-mosquitoes-to-control-the-spread-of-disease-carries-unknown-risks-123862) TheConversation.ca, republished in Salon, HalifaxToday.ca, SaltWire Newspapers, and Gannett Newspapers.
-
-9. **Getz, L.J.**, Dellaire, G. (2019). [Moratorium on Human Genome Editing: Time to Get It Right.](https://www.thehastingscenter.org/moratorium-on-human-genome-editing-time-to-get-it-right/) The Hastings Center Forum Blog.
-
-10. **Getz, L.J.**, Dellaire, G. (2019). [CRISPR gene editing: Why we need Slow Science.](https://theconversation.com/crispr-gene-editing-why-we-need-slow-science-113639) The Conversation.ca.
-
-11. **Getz, L.J.** (2019). [The "Value" of Consumer DNA Sequencing.](https://impactethics.ca/2019/02/28/the-value-of-consumer-dna-sequencing/) Impact Ethics at Novel Tech Ethics.
-
-12. **Getz, L.J.**, Dellaire, G., Baylis, F. (2018). [Jiankui He: A Sorry Tale of High-Stakes Science.](https://www.thehastingscenter.org/jiankui-sorry-tale-high-stakes-science/) The Hastings Center Forum Blog.
-
-13. Baylis, F., Dellaire, G., **Getz, L.J.** (2018). [Why we are not ready for genetically designed babies.](https://theconversation.com/why-we-are-not-ready-for-genetically-designed-babies-107756) The Conversation.ca. Reprinted in: The National Post and the Halifax Chronicle Herald.
-
-14. **Getz, L.J.** (2018). [Thicker Than Water: Slow Movement on Blood Policy.](https://impactethics.ca/2018/10/26/thicker-than-water-slow-movement-on-blood-policy/) Impact Ethics at Novel Tech Ethics.
-
-15. **Getz, L.J.** (2018). [The Privacy Implications of Human DNA Sequencing.](https://impactethics.ca/2018/05/11/the-privacy-implications-of-human-dna-sequencing/) Impact Ethics at Novel Tech Ethics.
-
-16. **Getz, L.J.** (2017). [A Reflection on Blood Donation Policy in Canada.](https://impactethics.ca/2017/08/24/a-reflection-on-blood-donation-policy-in-canada/) Impact Ethics at Novel Tech Ethics. Reprinted at the Kennedy Institute of Ethics Bioethics Blog.
-
-# Invited Seminars and Talks
-
-1. Transposon Sequencing: Functional Genomics for Probing Bacterial Pathogenesis. Genomics in Medicine - Emerging Technologies and Bioinformatic Challenges, Dalhousie University, Halifax, NS. Invited Talk. December 2019.
-
-2. *Vibrio parahaemolyticus* and infection: A complex relationship between environment and host. Graduate Student Research Day Excellence in Research Award, Dalhousie University, Halifax, NS. Keynote. May 2019
-
-3. The Multimodel Lifestyle of Marine *Vibrio*. Natural History Museum Life Science Seminar Series, Natural History Museum, London, UK. January 2019
-
-# Conference Talks
+## Conference Talks
 1. DNA Cruciforms Regulate Virulence Gene Expression in Pathogenic *Vibrio* Species. 70th Annual Conference of the Canadian Society of Microbiologists - Remote. June 2021.
 
 2. Build Back Better: The Chief Science Advisor’s Youth Council’s Roundtables to Envision A Post-Pandemic Future in the Canadian Science Community. Canadian Science Policy Conference, University of Ottawa, Ottawa, QC. October 2020.
