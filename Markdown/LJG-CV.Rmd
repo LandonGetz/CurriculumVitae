@@ -131,46 +131,37 @@ $\\$
 \end{etaremune}
 
 ## Conference Talks
-1. DNA Cruciforms Regulate Virulence Gene Expression in Pathogenic *Vibrio* Species. 70th Annual Conference of the Canadian Society of Microbiologists - Remote. June 2021.
+\begin{etaremune}
+\renewcommand\labelenumi{\bfseries\theenumi .}
+\item DNA Cruciforms Regulate Virulence Gene Expression in Pathogenic \textit{Vibrio} Species. 70th Annual Conference of the Canadian Society of Microbiologists - Remote. June 2021.
+\item Build Back Better: The Chief Science Advisor’s Youth Council’s Roundtables to Envision A Post-Pandemic Future in the Canadian Science Community. Canadian Science Policy Conference, University of Ottawa, Ottawa, QC. October 2020.
+\item Functional genomics of \textit{Vibrio} pathogenesis and environmental persistence. Canadian Student Health Research Forum, University of Manitoba, Regina, MB. August 2020.
+\item A DNA Cruciform Structure Regulates Virulence Gene Expression in Human Pathogenic \textit{Vibrio} species. PREP Graduate Student Research Day, Dalhousie University, Halifax, NS. June 2020.
+\item A Regulator of Sugar Metabolism Implicated in the Secretion and Virulence of \textit{Vibrio parahaemolyticus}. Professional Research and Education Program Graduate Student Research Day, Dalhousie University, Halifax, NS. May 2019
+\item Type III Secretion System Gene Expression and Virulence is Regulated by a DNA Cruciform Structure at the \textit{exsA} promoter in \textit{Vibrio parahaemolyticus}. Genomes to Biology: The 8th International Conference on the Biology of \textit{Vibrios}, McGill University, Montreal, QC. November 2019.
+\item Creating LGBTQ+ Inclusive Spaces for Equitable Active Learning. Dalhousie Conference on University Teaching and Learning, Dalhousie University, Halifax, NS. May 2019
+\item The Multimodal Lifestyle of Marine \textit{Vibrios}. Microbiology and Immunology Seminar Series, Dalhousie University, Halifax, NS. January 2019
+\item Flipping the Switch on Bacterial Pathogenesis: How the Leading Cause of Seafood-borne Gastroenteritis - \textit{Vibrio parahaemolyticus} - Regulates Virulence. LGBTSTEMinar 2019, Institute of Physics, London, UK January 2019
+\item  Linking Phenotype and Pathogen Genomics: TnSeq and Next Generation DNA Sequencing. PREP Graduate Student Research Day, Dalhousie University, Halifax, NS. May 2018
+\item  \textit{Vibrio parahaemolyticus}: A Versatile Pathogen Living a Dual-Lifestyle. Microbiology and Immunology Graduate Student Seminar, Dalhousie University, Halifax, NS. February 2018
+\item  Biofuel Production set to Spike: Identification of Biofuel Producing Enzymes in the Porcupine Microbiome. 2016 iGEM Giant Jamboree, iGEM, Boston, MA. October, 2016
+\end{etaremune}
 
-2. Build Back Better: The Chief Science Advisor’s Youth Council’s Roundtables to Envision A Post-Pandemic Future in the Canadian Science Community. Canadian Science Policy Conference, University of Ottawa, Ottawa, QC. October 2020.
-
-3. Functional genomics of *Vibrio* pathogenesis and environmental persistence. Canadian Student Health Research Forum, University of Manitoba, Regina, MB. August 2020.
-
-4. A DNA Cruciform Structure Regulates Virulence Gene Expression in Human Pathogenic *Vibrio* species. PREP Graduate Student Research Day, Dalhousie University, Halifax, NS. June 2020.
-
-5. A Regulator of Sugar Metabolism Implicated in the Secretion and Virulence of *Vibrio parahaemolyticus*. Professional Research and Education Program Graduate Student Research Day, Dalhousie University, Halifax, NS. May 2019
-
-6. Type III Secretion System Gene Expression and Virulence is Regulated by a DNA Cruciform Structure at the *exsA* promoter in *Vibrio parahaemolyticus*. Genomes to Biology: The 8th International Conference on the Biology of *Vibrios*, McGill University, Montreal, QC. November 2019.
-
-7. Creating LGBTQ+ Inclusive Spaces for Equitable Active Learning. Dalhousie Conference on University Teaching and Learning, Dalhousie University, Halifax, NS. May 2019
-
-8. The Multimodal Lifestyle of Marine *Vibrios*. Microbiology and Immunology Seminar Series, Dalhousie University, Halifax, NS. January 2019
-
-9. Flipping the Switch on Bacterial Pathogenesis: How the Leading Cause of Seafood-borne Gastroenteritis - *Vibrio parahaemolyticus* - Regulates Virulence. LGBTSTEMinar 2019, Institute of Physics, London, UK January 2019
-
-10. Linking Phenotype and Pathogen Genomics: TnSeq and Next Generation DNA Sequencing. PREP Graduate Student Research Day, Dalhousie University, Halifax, NS. May 2018
-
-11. *Vibrio parahaemolyticus*: A Versatile Pathogen Living a Dual-Lifestyle. Microbiology and Immunology Graduate Student Seminar, Dalhousie University, Halifax, NS. February 2018
-
-12. Biofuel Production set to Spike: Identification of Biofuel Producing Enzymes in the Porcupine Microbiome. 2016 iGEM Giant Jamboree, iGEM, Boston, MA. October, 2016
-
-# Conference Poster Presentations
+## Conference Poster Presentations
 > Poster Presenter**^\*^**
 
-1. **Getz, L.J.**, Brown, J.M., Thomas, N.A.^\*^. A DNA junction superstructure regulates Type III Secretion System gene expression and virulence in *Vibrio parahaemolyticus*. 69th Annual Conference of the Canadian Society of Microbiologists, Université de Sherbrooke, Montreal, QC. June 2019
-
-2. **Getz, L.J.**^\*^, Brown, J.M., Thomas, N.A. Type III Secretion System Gene Expression and Virulence is Regulated by a DNA Cruciform Structure at the *exsA promoter* in *Vibrio parahaemolyticus*. Centre for Comparative Genomics and Evolutionary Bioinformatics Research Retreat, Dalhousie University, Halifax, NS. November 2019
-
-3. **Getz, L.J.**^\*^, Thomas, N.A. "Discovery of a Genetic Switch in *Vibrio parahaemolyticus* that Contributes to Host Cell Death during Infection."
-
-4. **Getz, L.J.**^\*^, Comeau, A., Langille, M.G.I., Thomas, N.A. Linking Phenotype and Pathogen Genomics: TnSeq and Next Generation DNA Sequencing. 23rd Annual Infectious Disease Research Day, Centre for Vaccinology, Halifax, NS. April 2018
-
-6. **Getz, L.J.**^\*^, Thomas, N.A. HlyU and H-NS act as a Genetic Switch for Transcriptional Control of the Type-III Secretion System I Master Regulator *exsA*. ASM Vibrio2017, American Society of Microbiology, Chicago, IL. November 2017.
-
-7. **Getz, L.J.**^\*^, Thomas, N.A. Discovery of a Genetic Switch in *Vibrio parahaemolyticus* that Contributes to Host Cell Death during Infection. 22nd Annual Infectious Disease Research Day, Dalhousie University, Halifax, NS. April, 2017
-
-8. **Getz, L.J.**^\*^, Finlayson-Trick, E.C.L.^\*^, Hagar, M.^\*^, Slaine, P.D., Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z. Biofuel Production set to Spike: Identification of Biofuel Producing Enzymes in the Porcupine Microbiome 2016 iGEM Giant Jamboree, iGEM, Boston, MA. October 2016
+\begin{etaremune}
+\renewcommand\labelenumi{\bfseries\theenumi .}
+\item \textbf{Getz, L.J.}\textsuperscript{*}, Maxwell, K.L. The Best Defence is a Good Offence: Understanding Antiphage Defence in \textit{V. parahaemolyticus} for more Effective Phage Therapy. 2022 QAtCanSTEM Colloquium, Halifax, NS. October 2022
+\item ALEX's CSM Poster
+\item \textbf{Getz, L.J.}, Brown, J.M., Thomas, N.A.\textsuperscript{*}. A DNA junction superstructure regulates Type III Secretion System gene expression and virulence in \textit{Vibrio parahaemolyticus}. 69th Annual Conference of the Canadian Society of Microbiologists, Université de Sherbrooke, Montreal, QC. June 2019
+\item \textbf{Getz, L.J.}\textsuperscript{*}, Brown, J.M., Thomas, N.A. Type III Secretion System Gene Expression and Virulence is Regulated by a DNA Cruciform Structure at the \textit{exsA promoter} in \textit{Vibrio parahaemolyticus}. Centre for Comparative Genomics and Evolutionary Bioinformatics Research Retreat, Dalhousie University, Halifax, NS. November 2019
+\item \textbf{Getz, L.J.}\textsuperscript{*}, Thomas, N.A. "Discovery of a Genetic Switch in \textit{Vibrio parahaemolyticus} that Contributes to Host Cell Death during Infection."
+\item \textbf{Getz, L.J.}\textsuperscript{*}, Comeau, A., Langille, M.G.I., Thomas, N.A. Linking Phenotype and Pathogen Genomics: TnSeq and Next Generation DNA Sequencing. 23rd Annual Infectious Disease Research Day, Centre for Vaccinology, Halifax, NS. April 2018
+\item \textbf{Getz, L.J.}\textsuperscript{*}, Thomas, N.A. HlyU and H-NS act as a Genetic Switch for Transcriptional Control of the Type-III Secretion System I Master Regulator \textit{exsA}. ASM Vibrio2017, American Society of Microbiology, Chicago, IL. November 2017.
+\item \textbf{Getz, L.J.}\textsuperscript{*}, Thomas, N.A. Discovery of a Genetic Switch in \textit{Vibrio parahaemolyticus} that Contributes to Host Cell Death during Infection. 22nd Annual Infectious Disease Research Day, Dalhousie University, Halifax, NS. April, 2017
+\item \textbf{Getz, L.J.}\textsuperscript{*}, Finlayson-Trick, E.C.L.\textsuperscript{*}, Hagar, M.\textsuperscript{*}, Slaine, P.D., Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z. Biofuel Production set to Spike: Identification of Biofuel Producing Enzymes in the Porcupine Microbiome 2016 iGEM Giant Jamboree, iGEM, Boston, MA. October 2016
+\end{etaremune}
 
 # Grants
 
@@ -251,7 +242,7 @@ Chemistry Resource Centre Assistant, CHEM 1011/1021 and CHEM 1012/1022 \hfill Fa
 > Provided additional lecture support for CHEM 1011/1021 and CHEM 1012/1022 students in the Chemistry Resource Centre.
 
 ## Laboratory Supervision Summary:
-
+> University of Toronto Rotation Students: 1 $\\$
 > Honours Students Supervised: 3 $\\$
 > Summer Students Supervised: 8 $\\$
 > Experiential Learning Students Supervised: 4
