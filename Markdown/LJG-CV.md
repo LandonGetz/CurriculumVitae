@@ -82,22 +82,22 @@ $\\$
 
 \begin{etaremune}
 \renewcommand\labelenumi{\bfseries\theenumi .}
-\item Baylis, F., \textbf{Getz, L.J.} (2021). \href{https://blogs.bmj.com/medical-ethics/2021/04/27/challenge-studies-for-covid-19-now-is-still-not-the-time/}{Challenge studies for COVID-19: Now is still not the time.} JME Blog
-\item \textbf{Getz, L.J.}, Baylis, F. (2021). \href{https://blogs.bmj.com/medical-ethics/2021/04/06/challenge-studies-for-covid-19-now-is-not-the-time/}{Challenge studies for COVID-19: Now is not the time.} JME Blog
-\item \textbf{Getz, L.J.}, Baylis, F. (2020). \href{https://policyoptions.irpp.org/magazines/november-2020/canada-should-reject-the-idea-of-deliberately-infecting-vaccine-volunteers/}{Canada should reject the idea of deliberately infecting vaccine volunteers.} PolicyOptions.ca.
-\item Baylis, F., \textbf{Getz, L.J.} (2020). \href{https://www.cbc.ca/news/opinion/opinion-covid-vaccine-human-challenge-trials-1.5790713}{Why federal government should reject human challenge trials for COVID-19 vaccine.} CBC Opinion.
-\item Qaiser, F., Morriseau, T., Rilling, M., Cartile, A., Sung, M., \textbf{Getz, L.J.}, Boulanger, M-E. (2020). \href{https://sciencepolicy.ca/posts/envisioning-a-post-pandemic-future-in-the-canadian-science-community-a-youth-perspective/}{Envisioning A Post-Pandemic Future in the Canadian Science Community: A Youth Perspective.} Canadian Science Policy Conference 2020.
-\item Baylis, F., \textbf{Getz, L.J.} (2020). \href{https://healthydebate.ca/2020/10/topic/risky-challenge-trials-unethical/}{Rush to risky chellenge trials is unethical.} HealthyDebate.ca.
-\item \textbf{Getz, L.J.} (2020). \href{https://theconversation.com/rushing-coronavirus-vaccines-and-treatments-could-do-more-harm-than-good-136449}{Rushing coronavirus vaccines and treatments could do more harm than good.} TheConversation.ca, Republished in Everything Zoomer, and Dal News.
-\item Kofler, N., \textbf{Getz, L.J.}, Baylis, F., Dellaire, G. (2019). \href{https://theconversation.com/genetically-modifying-mosquitoes-to-control-the-spread-of-disease-carries-unknown-risks-123862}{Genetically modifying mosquitoes to control the spread of disease carries unknown risks.} TheConversation.ca, republished in Salon, HalifaxToday.ca, SaltWire Newspapers, and Gannett Newspapers.
-\item \textbf{Getz, L.J.}, Dellaire, G. (2019). \href{https://www.thehastingscenter.org/moratorium-on-human-genome-editing-time-to-get-it-right/}{Moratorium on Human Genome Editing: Time to Get It Right.} The Hastings Center Forum Blog.
-\item  \textbf{Getz, L.J.}, Dellaire, G. (2019). \href{https://theconversation.com/crispr-gene-editing-why-we-need-slow-science-113639}{CRISPR gene editing: Why we need Slow Science.} The Conversation.ca.
-\item  \textbf{Getz, L.J.} (2019). \href{https://impactethics.ca/2019/02/28/the-value-of-consumer-dna-sequencing/}{The "Value" of Consumer DNA Sequencing.} Impact Ethics at Novel Tech Ethics.
-\item  \textbf{Getz, L.J.}, Dellaire, G., Baylis, F. (2018). \href{https://www.thehastingscenter.org/jiankui-sorry-tale-high-stakes-science/}{Jiankui He: A Sorry Tale of High-Stakes Science.} The Hastings Center Forum Blog.
-\item  Baylis, F., Dellaire, G., \textbf{Getz, L.J.} (2018). \href{https://theconversation.com/why-we-are-not-ready-for-genetically-designed-babies-107756}{Why we are not ready for genetically designed babies.} The Conversation.ca. Reprinted in: The National Post and the Halifax Chronicle Herald.
-\item  \textbf{Getz, L.J.} (2018). \href{https://impactethics.ca/2018/10/26/thicker-than-water-slow-movement-on-blood-policy/}{Thicker Than Water: Slow Movement on Blood Policy.} Impact Ethics at Novel Tech Ethics.
-\item  \textbf{Getz, L.J.} (2018). \href{https://impactethics.ca/2018/05/11/the-privacy-implications-of-human-dna-sequencing/}{The Privacy Implications of Human DNA Sequencing.} Impact Ethics at Novel Tech Ethics.
-\item  \textbf{Getz, L.J.} (2017). \href{https://impactethics.ca/2017/08/24/a-reflection-on-blood-donation-policy-in-canada/}{A Reflection on Blood Donation Policy in Canada.} Impact Ethics at Novel Tech Ethics. Reprinted at the Kennedy Institute of Ethics Bioethics Blog.
+\item Baylis, F., \textbf{Getz, L.J.} (2021). [Challenge studies for COVID-19: Now is still not the time.](https://blogs.bmj.com/medical-ethics/2021/04/27/challenge-studies-for-covid-19-now-is-still-not-the-time/) JME Blog
+\item \textbf{Getz, L.J.}, Baylis, F. (2021). [Challenge studies for COVID-19: Now is not the time.](https://blogs.bmj.com/medical-ethics/2021/04/06/challenge-studies-for-covid-19-now-is-not-the-time/) JME Blog
+\item \textbf{Getz, L.J.}, Baylis, F. (2020). [Canada should reject the idea of deliberately infecting vaccine volunteers.](https://policyoptions.irpp.org/magazines/november-2020/canada-should-reject-the-idea-of-deliberately-infecting-vaccine-volunteers/) PolicyOptions.ca.
+\item Baylis, F., \textbf{Getz, L.J.} (2020). [Why federal government should reject human challenge trials for COVID-19 vaccine.](https://www.cbc.ca/news/opinion/opinion-covid-vaccine-human-challenge-trials-1.5790713) CBC Opinion.
+\item Qaiser, F., Morriseau, T., Rilling, M., Cartile, A., Sung, M., \textbf{Getz, L.J.}, Boulanger, M-E. (2020). [Envisioning A Post-Pandemic Future in the Canadian Science Community: A Youth Perspective.](https://sciencepolicy.ca/posts/envisioning-a-post-pandemic-future-in-the-canadian-science-community-a-youth-perspective/) Canadian Science Policy Conference 2020.
+\item Baylis, F., \textbf{Getz, L.J.} (2020). [Rush to risky chellenge trials is unethical.](https://healthydebate.ca/2020/10/topic/risky-challenge-trials-unethical/) HealthyDebate.ca.
+\item \textbf{Getz, L.J.} (2020). [Rushing coronavirus vaccines and treatments could do more harm than good.](https://theconversation.com/rushing-coronavirus-vaccines-and-treatments-could-do-more-harm-than-good-136449) TheConversation.ca, Republished in Everything Zoomer, and Dal News.
+\item Kofler, N., \textbf{Getz, L.J.}, Baylis, F., Dellaire, G. (2019). [Genetically modifying mosquitoes to control the spread of disease carries unknown risks.](https://theconversation.com/genetically-modifying-mosquitoes-to-control-the-spread-of-disease-carries-unknown-risks-123862) TheConversation.ca, republished in Salon, HalifaxToday.ca, SaltWire Newspapers, and Gannett Newspapers.
+\item \textbf{Getz, L.J.}, Dellaire, G. (2019). [Moratorium on Human Genome Editing: Time to Get It Right.](https://www.thehastingscenter.org/moratorium-on-human-genome-editing-time-to-get-it-right/) The Hastings Center Forum Blog.
+\item  \textbf{Getz, L.J.}, Dellaire, G. (2019). [CRISPR gene editing: Why we need Slow Science.](https://theconversation.com/crispr-gene-editing-why-we-need-slow-science-113639) The Conversation.ca.
+\item  \textbf{Getz, L.J.} (2019). [The "Value" of Consumer DNA Sequencing.](https://impactethics.ca/2019/02/28/the-value-of-consumer-dna-sequencing/) Impact Ethics at Novel Tech Ethics.
+\item  \textbf{Getz, L.J.}, Dellaire, G., Baylis, F. (2018). [Jiankui He: A Sorry Tale of High-Stakes Science.](https://www.thehastingscenter.org/jiankui-sorry-tale-high-stakes-science/) The Hastings Center Forum Blog.
+\item  Baylis, F., Dellaire, G., \textbf{Getz, L.J.} (2018). [Why we are not ready for genetically designed babies.](https://theconversation.com/why-we-are-not-ready-for-genetically-designed-babies-107756) The Conversation.ca. Reprinted in: The National Post and the Halifax Chronicle Herald.
+\item  \textbf{Getz, L.J.} (2018). [Thicker Than Water: Slow Movement on Blood Policy.](https://impactethics.ca/2018/10/26/thicker-than-water-slow-movement-on-blood-policy/) Impact Ethics at Novel Tech Ethics.
+\item  \textbf{Getz, L.J.} (2018). [The Privacy Implications of Human DNA Sequencing.](https://impactethics.ca/2018/05/11/the-privacy-implications-of-human-dna-sequencing/) Impact Ethics at Novel Tech Ethics.
+\item  \textbf{Getz, L.J.} (2017). [A Reflection on Blood Donation Policy in Canada.](https://impactethics.ca/2017/08/24/a-reflection-on-blood-donation-policy-in-canada/) Impact Ethics at Novel Tech Ethics. Reprinted at the Kennedy Institute of Ethics Bioethics Blog.
 \end{etaremune}
 
 ## Abstracts
@@ -153,8 +153,10 @@ $\\$
 \begin{etaremune}
 \renewcommand\labelenumi{\bfseries\theenumi .}
 \item \textbf{Getz, L.J.}\textsuperscript{*}, Maxwell, K.L. The Best Defence is a Good Offence: Understanding Antiphage Defence in \textit{V. parahaemolyticus} for more Effective Phage Therapy. 2022 QAtCanSTEM Colloquium, Halifax, NS. October 2022
+\item ALEX's CSM Poster
 \item \textbf{Getz, L.J.}, Brown, J.M., Thomas, N.A.\textsuperscript{*}. A DNA junction superstructure regulates Type III Secretion System gene expression and virulence in \textit{Vibrio parahaemolyticus}. 69th Annual Conference of the Canadian Society of Microbiologists, Université de Sherbrooke, Montreal, QC. June 2019
 \item \textbf{Getz, L.J.}\textsuperscript{*}, Brown, J.M., Thomas, N.A. Type III Secretion System Gene Expression and Virulence is Regulated by a DNA Cruciform Structure at the \textit{exsA promoter} in \textit{Vibrio parahaemolyticus}. Centre for Comparative Genomics and Evolutionary Bioinformatics Research Retreat, Dalhousie University, Halifax, NS. November 2019
+\item \textbf{Getz, L.J.}\textsuperscript{*}, Thomas, N.A. "Discovery of a Genetic Switch in \textit{Vibrio parahaemolyticus} that Contributes to Host Cell Death during Infection."
 \item \textbf{Getz, L.J.}\textsuperscript{*}, Comeau, A., Langille, M.G.I., Thomas, N.A. Linking Phenotype and Pathogen Genomics: TnSeq and Next Generation DNA Sequencing. 23rd Annual Infectious Disease Research Day, Centre for Vaccinology, Halifax, NS. April 2018
 \item \textbf{Getz, L.J.}\textsuperscript{*}, Thomas, N.A. HlyU and H-NS act as a Genetic Switch for Transcriptional Control of the Type-III Secretion System I Master Regulator \textit{exsA}. ASM Vibrio2017, American Society of Microbiology, Chicago, IL. November 2017.
 \item \textbf{Getz, L.J.}\textsuperscript{*}, Thomas, N.A. Discovery of a Genetic Switch in \textit{Vibrio parahaemolyticus} that Contributes to Host Cell Death during Infection. 22nd Annual Infectious Disease Research Day, Dalhousie University, Halifax, NS. April, 2017
@@ -163,22 +165,14 @@ $\\$
 
 # Grants
 
-\begin{etaremune}
-\renewcommand\labelenumi{\bfseries\theenumi .}
-\newif\ifstarreditem
-\item Awareness and understanding of apheresis plasma donation and effectiveness of alternative donor screening questions for diverse gbMSM and trans populations, Canadian Blood Services.
+*Awareness and understanding of apheresis plasma donation and effectiveness of alternative donor screening questions for diverse gbMSM and trans populations*, Canadian Blood Services.
 
-* Role: Collaborator under Principle Investigator Dr. Jacqueline Gahagan \\
-* Total award: \$200,500 CAD \\
-* Focus on plasma donation and policies surrounding LGBTQ+ donors. \\
+> Role: Collaborator under Dr. Jacqueline Gahagan
 
-\item Genomics Opportunity Review Program: Legacy Gold Mine Genomics, Genome Atlantic
+> Total award: \$200,500
 
-* Role: Collaborator under Principle Applicants Drs. Linda Campbell and Josh Kurek \\
-* Total award: \$15,000 CAD \\
-* Perform 16S rRNA and Metagenomic sequence on arsenic and mercury contaminated legacy gold mine sites.
+> Focus on plasma donation and policies surrounding LGBTQ+ donors.
 
-\end{etaremune}
 # Teaching and Course-Design Experience
 
 ## Teaching Philosophy
