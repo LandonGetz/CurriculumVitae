@@ -51,8 +51,8 @@ $\\$
 *Faculty of Science, Dalhousie University*, Certificate in Genetics \hfill 2017
 
 # Publications
-> Career Total (Published): 8 $\\$
-> 106 Citations; h-index: 6 (as per Google Scholar)
+> Career Total (Published): 9 $\\$
+> 119 Citations; h-index: 7 (as per Google Scholar)
 
 ## Journal Articles
 
@@ -60,7 +60,7 @@ $\\$
 
 \begin{etaremune}
 \renewcommand\labelenumi{\bfseries\theenumi .}
- \item \textbf{Getz, L.J.}, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A.\textsuperscript{\#} (2022). Attenuation of a DNA Cruciform by a Conserved Regulator Directs T3SS-1 mediated virulence in \textit{Vibrio parahaemolyticus}. Under Revision at Nucleic Acids Research.
+ \item \textbf{Getz, L.J.}, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A.\textsuperscript{\#} (2022). Attenuation of a DNA Cruciform by a Conserved Regulator Directs T3SS-1 mediated virulence in \textit{Vibrio parahaemolyticus}. Accepted and In Press, Nucleic Acids Research.
  \item Kratzer, K.\*, \textbf{Getz, L.J.}, Peterlini, T, Masson\textsuperscript{\#}, J-Y, Dellaire, G\textsuperscript{\#} (2021). \href{https://link.springer.com/article/10.1007/s00439-021-02272-5}{"Addressing the dark matter of gene therapy: technical and ethical barriers to clinical application."} \textit{Human Genetics}. DOI: 0.1007/s00439-021-02272-5
  \item \textbf{Getz, L.J.}, Dellaire, G.\textsuperscript{\#} (2020). \href{https://link.springer.com/article/10.1007/s11948-020-00226-0}{"Back to Basics: Application of the 4-principle approach to bioethics to heritable genome editing."} \textit{Science and Engineering Ethics}. DOI: 10.1007/s11948-020-00226-0
  \item \textbf{Getz, L.J.}, Runté, C., Rainey, J., Thomas, N.A.\textsuperscript{\#} (2019). \href{https://jb.asm.org/content/201/19/e00205-19}{"Tyrosine phosphorylation as a widespread regulatory mechanism in prokaryotes."} \textit{Journal of Bacteriology}. DOI: 10.1128/JB.00205-19
@@ -82,10 +82,10 @@ $\\$
 
 \begin{etaremune}
 \renewcommand\labelenumi{\bfseries\theenumi .}
-\item Baylis, F., \textbf{Getz, L.J.} (2021). [Challenge studies for COVID-19: Now is still not the time.](https://blogs.bmj.com/medical-ethics/2021/04/27/challenge-studies-for-covid-19-now-is-still-not-the-time/) JME Blog
-\item \textbf{Getz, L.J.}, Baylis, F. (2021). [Challenge studies for COVID-19: Now is not the time.](https://blogs.bmj.com/medical-ethics/2021/04/06/challenge-studies-for-covid-19-now-is-not-the-time/) JME Blog
-\item \textbf{Getz, L.J.}, Baylis, F. (2020). [Canada should reject the idea of deliberately infecting vaccine volunteers.](https://policyoptions.irpp.org/magazines/november-2020/canada-should-reject-the-idea-of-deliberately-infecting-vaccine-volunteers/) PolicyOptions.ca.
-\item Baylis, F., \textbf{Getz, L.J.} (2020). [Why federal government should reject human challenge trials for COVID-19 vaccine.](https://www.cbc.ca/news/opinion/opinion-covid-vaccine-human-challenge-trials-1.5790713) CBC Opinion.
+\item Baylis, F., \textbf{Getz, L.J.} (2021). \href{https://blogs.bmj.com/medical-ethics/2021/04/27/challenge-studies-for-covid-19-now-is-still-not-the-time/}{Challenge studies for COVID-19: Now is still not the time.} JME Blog
+\item \textbf{Getz, L.J.}, Baylis, F. (2021). \href{https://blogs.bmj.com/medical-ethics/2021/04/06/challenge-studies-for-covid-19-now-is-not-the-time/}{Challenge studies for COVID-19: Now is not the time.} JME Blog
+\item \textbf{Getz, L.J.}, Baylis, F. (2020). \href{https://policyoptions.irpp.org/magazines/november-2020/canada-should-reject-the-idea-of-deliberately-infecting-vaccine-volunteers/}{Canada should reject the idea of deliberately infecting vaccine volunteers.} PolicyOptions.ca.
+\item Baylis, F., \textbf{Getz, L.J.} (2020). \href{https://www.cbc.ca/news/opinion/opinion-covid-vaccine-human-challenge-trials-1.5790713}{Why federal government should reject human challenge trials for COVID-19 vaccine.} CBC Opinion.
 \item Qaiser, F., Morriseau, T., Rilling, M., Cartile, A., Sung, M., \textbf{Getz, L.J.}, Boulanger, M-E. (2020). [Envisioning A Post-Pandemic Future in the Canadian Science Community: A Youth Perspective.](https://sciencepolicy.ca/posts/envisioning-a-post-pandemic-future-in-the-canadian-science-community-a-youth-perspective/) Canadian Science Policy Conference 2020.
 \item Baylis, F., \textbf{Getz, L.J.} (2020). [Rush to risky chellenge trials is unethical.](https://healthydebate.ca/2020/10/topic/risky-challenge-trials-unethical/) HealthyDebate.ca.
 \item \textbf{Getz, L.J.} (2020). [Rushing coronavirus vaccines and treatments could do more harm than good.](https://theconversation.com/rushing-coronavirus-vaccines-and-treatments-could-do-more-harm-than-good-136449) TheConversation.ca, Republished in Everything Zoomer, and Dal News.
@@ -123,7 +123,7 @@ $\\$
 
 \begin{etaremune}
 \renewcommand\labelenumi{\bfseries\theenumi .}
- \item \textbf{2022 Armand Frappier Outstanding Graduate Student Award Talk} - Attenuation of DNA Cruciform Structures by a Conserved Regulator Directs VIrulence Gene Expression in Pandemic \textit{Vibrio}. University of Guelph, Guelph, ON. June 2022.
+ \item \textbf{2022 Armand Frappier Outstanding Graduate Student Award Talk} - Attenuation of DNA Cruciform Structures by a Conserved Regulator Directs Virulence Gene Expression in Pandemic \textit{Vibrio}. University of Guelph, Guelph, ON. June 2022.
  \item \textbf{2022 Al Downe Memorial Lecture} - Editing Nature: Genetically Modified Mosquitoes and a Case for Slow Science - Queen's University, Kingston, ON. March 2022.
  \item Transposon Sequencing: Functional Genomics for Probing Bacterial Pathogenesis. Genomics in Medicine - Emerging Technologies and Bioinformatic Challenges, Dalhousie University, Halifax, NS. Invited Talk. December 2019.
  \item \textit{Vibrio parahaemolyticus} and infection: A complex relationship between environment and host. Graduate Student Research Day Excellence in Research Award, Dalhousie University, Halifax, NS. Keynote. May 2019
