@@ -52,7 +52,7 @@ $\\$
 
 # Publications
 > Career Total (Published): 9 $\\$
-> 119 Citations; h-index: 7 (as per Google Scholar)
+> 124 Citations; h-index: 7 (as per Google Scholar)
 
 ## Journal Articles
 
@@ -260,8 +260,9 @@ Chemistry Resource Centre Assistant, CHEM 1011/1021 and CHEM 1012/1022 \hfill Fa
 $\\$
 
 # Awards
+2023 GSK EPIC Convergence Postdoctoral Fellowship in Antimicrobial Resistance - \href{https://epic.utoronto.ca}{EPIC} \hfill $120,000 CAD Award
 
-2023 CIHR Postdoctoral Fellowship (3 Years) - Canadian Institute of Health Research \hfill $120,000 CAD Award
+2023 CIHR Postdoctoral Fellowship (3 Years) - Canadian Institutes of Health Research \hfill $120,000 CAD Award
 
 2022 Design2Learn (D2L) Innovation Award in Teaching and Learning - STLHE \hfill $3000 CAD Award to Team
 
@@ -328,8 +329,11 @@ HHMI Tuition Scholarship, Cold Spring Harbor Laboratories Advanced Bacterial Gen
 # Professional Activities
 
 ## Government
+Mentor, Chief Science Advisor of Canada's Youth Council \hfill 2023 - *Present* $\\$
+*Office of the Chief Science Advisor, Government of Canada*
+
 Participant, Chief Science Advisor of Canada's Open Science Dialogues \hfill 2021 $\\$
-*Office of the Chief Sciece Advisor, Government of Canada*
+*Office of the Chief Science Advisor, Government of Canada*
 
 Observer, Expert Advisory Committee on COVID-19: Zoonosis \hfill 2020 $\\$
 *Office of the Chief Science Advisor, Government of Canada*
@@ -338,19 +342,22 @@ Member, Chief Science Advisor's Youth Council \hfill 2019 - *Present* $\\$
 *Office of the Chief Science Advisor, Government of Canada*
 
 Consultant, CIHR Self-Identification Questionnaire Review \hfill 2019 - 2020 $\\$
-*Canadian Institute of Health Research*
+*Canadian Institutes of Health Research*
 
 ## Institutional
+Consultant, Tri-Agency Training Stategy External Advisory Committee \hfill 2023 $\\$
+*NSERC, on behalf of the Tri-Agencies*
+
 Participant, NSERC 2030: A Strategic Plan \hfill 2021 $\\$
 *National Science and Engineering Research Council of Canada*
 
-Graduate Student Representative, [Institute for Comparative Genomics](https://icgenomics.ca) \hfill 2021 - *Present* $\\$
+Graduate Student Representative, [Institute for Comparative Genomics](https://icgenomics.ca) \hfill 2021 - 2022 $\\$
 *Dalhousie University*
 
-Organizing Committee Member, CCfV/ID Research Day \hfill 2021 - *Present* $\\$
+Organizing Committee Member, CCfV/ID Research Day \hfill 2021 - 2022 $\\$
 *Dalhousie University*
 
-Network Member, [Editing Nature](https://www.editingnature.org/whoweare) \hfill 2019 - *Present* $\\$
+Network Member, [Editing Nature](https://www.editingnature.org/whoweare) \hfill 2019 - 2022 $\\$
 *Yale University, New Haven, Connecticut*
 
 Graduate Student Representative, Undergraduate Studies Committee, \hfill 2017 - 2019$\\$
@@ -360,35 +367,41 @@ Observer, NSHRF Peer-Review Panel \hfill 2018 $\\$
 *Dalhousie University*
 
 ## Scientific Society Membership and Service
-ASM Young Ambassador to Canada, American Society of Microbiology \hfill 2022
+ASM Young Ambassador to Canada, American Society of Microbiology \hfill 2022 - 2023
 
-Student Member, Canadian Society of Micobiologists \hfill 2021 - *Present*
+Member, Canadian Society of Micobiologists \hfill 2021 - *Present*
 
-Student Member, American Society for Microbiology \hfill 2017 - *Present*
+Member, American Society for Microbiology \hfill 2017 - *Present*
 
-Student Member, Nova Scotia Institute of Science \hfill 2017 - *Present*
+Student Member, Nova Scotia Institute of Science \hfill 2017 - 2022
 
-# Scientific Peer Review
+## Grant Panel Peer Review
+Youth Reviewer, Healthy Youth Catalyst Grant \hfill 2023 $\\$
+*Canadian Institutes of Health Research*
+
+## Scientific Peer Review
 
 - Biochemistry and Cell Biology (x1)
+- Microbiology Spectrum (x1)
 - mSystems (x3)
 - Microbiome (x2)
 
-# Community Activities
+# Community Outreach, and Justice and Belonging Efforts
+Co-Founder, Pride in Microbiology \hfill 2023 - *Present* $\\$
+*Pride in Microbiology*
+
 Board Member, Board of Directors \hfill 2019 - 2021 $\\$
 *Scientists of the Maritimes*
 
 Founder \hfill 2019 - *Present* $\\$
 *Queer Atlantic Canadian Science, Technology, Engineering, and Mathematics (QAtCanSTEM)*
 
-Primary Organizer, QAtCanSTEM Colloquium \hfill 2020 $\\$
+Primary Organizer, QAtCanSTEM Colloquium \hfill 2020 - 2022 $\\$
  *Dalhousie University*
 
-Front of House Volunteer \hfill 2013 - 2017 $\\$
-*Halifax Music Co-op*
+# Knowledge Translation, Media, and News
 
-# Knowledge Translation and Media
-
+**Canadian Society of Microbiologists.** \href{https://www.youtube.com/watch?v=e1SYQ3WVK7Q}{Meet the Microbiologist: Landon Getz}. March 16th, 2022 $\\$
 **Dal News.** Making science a better place: Student‑led group expands efforts to create community for LGBTQ+ in STEM. August 18, 2021.$\\$
 **Dal News.** EXCELLENCE IN EDUCATION: MEET THIS YEAR'S DALHOUSIE TEACHING AWARD WINNERS. June 23, 2021. $\\$
 **Scientists in School.** Spotlight with Scientists in School: Landon Getz, Award Winning Post-Secondary Educator. March 1, 2021. $\\$
