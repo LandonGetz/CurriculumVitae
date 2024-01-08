@@ -132,6 +132,8 @@ $\\$
 
 \begin{etaremune}
 \renewcommand\labelenumi{\bfseries\theenumi .}
+ \item Phage Therapy: Solutions in a Post-antibiotic Era. 2nd Annual Antimicrobial Resistance Symposium, Emerging Pandemic Infections Consortium, University of Toronto, Toronto, ON. November 2023.
+ \item 2023 Connell Award for Best All Round Post Doctoral Fellow Award Talk. Annual Biochemsitry Retreat 2023, University of Toronto, Toronto, ON. October 2023.
  \item Pride in Microbiology, A Community Resource Also for Plant Biologists. Canadian Society of Plant Biology Annual Meeting, Université Laval, Quebec City, QC. June 2023.
  \item \textbf{2022 Armand Frappier Outstanding Graduate Student Award} - Attenuation of DNA Cruciform Structures by a Conserved Regulator Directs Virulence Gene Expression in Pandemic \textit{Vibrio}. University of Guelph, Guelph, ON. June 2022.
  \item \textbf{2022 Al Downe Memorial Lecture} - Editing Nature: Genetically Modified Mosquitoes and a Case for Slow Science. Queen's University, Kingston, ON. March 2022.
@@ -265,6 +267,8 @@ Chemistry Resource Centre Assistant, CHEM 1011/1021 and CHEM 1012/1022 \hfill Fa
 $\\$
 
 # Awards
+2023 Connell Award for Best All Round Post Doctoral Fellow - Biochemistry, U of T \hfill $500 CAD Award
+
 2023 GSK EPIC Convergence Postdoctoral Fellowship in Antimicrobial Resistance - \href{https://epic.utoronto.ca}{EPIC} \hfill $120,000 CAD Award
 
 2023 CIHR Postdoctoral Fellowship - Canadian Institutes of Health Research \hfill $120,000 CAD Award
