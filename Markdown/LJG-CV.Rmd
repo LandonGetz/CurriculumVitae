@@ -15,12 +15,12 @@ address2: "MaRS Centre, West Tower | 661 University Avenue, Suite 1600 | Toronto
 #fontawesome: yes
 fontawesome5: yes
 email: landon.getz@utoronto.ca
-#github: landongetz
+github: landongetz
 twitter: landongetz
 orcid: "0000-0002-3841-1062"
 #phone: "+353 1 408 4800"
-web: landongetz.com
-updated: yes
+web: www.landongetz.com
+#updated: yes
 
 keywords: R Markdown, academic CV, template
 
@@ -35,9 +35,9 @@ $\\$
 
 >Dr. Landon J. Getz (PhD) is a Postdoctoral Fellow in the Maxwell Lab at the University of Toronto's Department of Biochemistry. Dr. Getz obtained his Ph.D. in Microbiology and Immunology at Dalhousie University in the lab of Dr. Nikhil Thomas, studying *Vibrio* genetics and host-pathogen interactions. Dr. Getz is a CIHR Fellow (2023), Vanier Scholar (2019), Killam Laureate (2019), and an alumnus of the Chief Science Advisor's inaugural youth council (2020).
 >
->Dr. Getz has a keen interest in understanding the genetic mechanisms of bacterial-environmental survival and the genetic and molecular mechanisms of pathogenesis and phage-predation in *Vibrio* species. This work is supported by the Emerging & Pandemic Infections Consortium (EPIC) inaugural GlaxoSmithKline Convergence Postdoctoral Fellowship in Antimicrobial Resistance (2023) and a CIHR Fellowship (2023). Dr. Getz previously explored the pathogenicity and environmental survival of multiple pathogens, including *Vibrio parahaemolyticus* Enteropathogenic *E. coli*. 
+>Dr. Getz has a keen interest in understanding the genetic mechanisms of bacterial-environmental survival and the genetic and molecular mechanisms of pathogenesis and phage-predation in *Vibrio* species. This work is supported by the Emerging & Pandemic Infections Consortium (EPIC) inaugural GlaxoSmithKline Convergence Postdoctoral Fellowship in Antimicrobial Resistance (2023) and a CIHR Fellowship (2023). Dr. Getz previously explored the pathogenicity and environmental survival of multiple pathogens, including *Vibrio parahaemolyticus*, and Enteropathogenic and Enterohemorrhagic  *E. coli*. 
 >
->Dr. Getz is deeply interested in the intersections between science and society, and uses this interest to pursue the ethical and policy implications of new and emerging medical and genetic technologies, such as CRISPR/Cas. Consequently, Dr. Getz has published several peer-reviewed journal articles and commentaries on both microbial genetics and pathogenesis, as well as in bioethics and science policy.
+>Dr. Getz is deeply interested in the intersections between science and society and therefore pursues the ethical and policy implications of new and emerging medical and genetic technologies, such as CRISPR/Cas. Consequently, Dr. Getz has published several peer-reviewed journal articles and commentaries on both microbial genetics and pathogenesis, as well as in bioethics and science policy.
 
 # Education
 *Termerty Faculty of Medicine, University of Toronto*, Postdoctoral Fellow \hfill \textit{Present}
@@ -54,7 +54,7 @@ $\\$
 
 # Publications
 > Career Total (Published): 11 $\\$
-> 139 Citations; h-index: 7 (as per Google Scholar)
+> 144 Citations; h-index: 7 (as per Google Scholar)
 
 ## Journal Articles
 
@@ -62,15 +62,15 @@ $\\$
 
 \begin{etaremune}
 \renewcommand\labelenumi{\bfseries\theenumi .}
- \item \textbf{Getz, L.J.}, Maxwell, K.L.\textsuperscript{\#} (2023). Diverse anti-phage defences are widespread among prophages and mobile genetic elements. \textit{\textbf{Accepted}, Annual Reviews of Virology}.
- \item Patel, P.H., Taylor, V.L., Zhang, C., \textbf{Getz, L.J}, Fitzpatrick, A.D., Davidson, A.R., Maxwell, K.L. (2023). Anti-phage defence through inhibition of virion assembly. \textbf{\textit{Accepted}}, \textit{Nature Communications}.
+ \item \textbf{Getz, L.J.}, Maxwell, K.L.\textsuperscript{\#} (2024). Diverse anti-phage defences are widespread among prophages and mobile genetic elements. \textit{\textbf{Accepted}, Annual Reviews of Virology}.
+ \item Patel, P.H., Taylor, V.L., Zhang, C., \textbf{Getz, L.J}, Fitzpatrick, A.D., Davidson, A.R., Maxwell, K.L.\textsuperscript{\#} (2024). Anti-phage defence through inhibition of virion assembly. \textit{Nature Communications}. In Press. DOI: 10.1038/s41467-024-45892
  \item \textbf{Getz, L.J.}, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A.\textsuperscript{\#} (2023). \href{https://academic.oup.com/nar/article/51/12/6156/7157527}{Attenuation of a DNA Cruciform by a Conserved Regulator Directs T3SS-1 Mediated Virulence in \textit{Vibrio parahaemolyticus}}. \textit{Nucleic Acids Research}. DOI: 10.1093/nar/gkad370
- \item Kratzer, K.\*, \textbf{Getz, L.J.}, Peterlini, T, Masson\textsuperscript{\#}, J-Y, Dellaire, G\textsuperscript{\#} (2021). \href{https://link.springer.com/article/10.1007/s00439-021-02272-5}{Addressing the dark matter of gene therapy: technical and ethical barriers to clinical application.} \textit{Human Genetics}. DOI: 0.1007/s00439-021-02272-5
+ \item Kratzer, K.\*, \textbf{Getz, L.J.}, Peterlini, T, Masson\textsuperscript{\#}, J-Y, Dellaire, G\textsuperscript{\#} (2021). \href{https://link.springer.com/article/10.1007/s00439-021-02272-5}{Addressing the dark matter of gene therapy: technical and ethical barriers to clinical application.} \textit{Human Genetics}. DOI: 10.1007/s00439-021-02272-5
  \item \textbf{Getz, L.J.}, Dellaire, G.\textsuperscript{\#} (2020). \href{https://link.springer.com/article/10.1007/s11948-020-00226-0}{Back to Basics: Application of the 4-principle approach to bioethics to heritable genome editing.} \textit{Science and Engineering Ethics}. DOI: 10.1007/s11948-020-00226-0
  \item \textbf{Getz, L.J.}, Runté, C., Rainey, J., Thomas, N.A.\textsuperscript{\#} (2019). \href{https://jb.asm.org/content/201/19/e00205-19}{Tyrosine phosphorylation as a widespread regulatory mechanism in prokaryotes.} \textit{Journal of Bacteriology}. DOI: 10.1128/JB.00205-19
  \item Thornbury, M.\*, Sicheri, J.\*, Slaine, P.D., \textbf{Getz, L.J.}, Finlayson-Trick, E.C.L., Cook, J., Guinard, C., Boudreau, N., Jakeman, D., Rohde, J.R., McCormick, C.\textsuperscript{\#} (2018). \href{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209221}{Characterization of novel lignocellulose-degrading enzymes from the porcupine microbiome using synthetic metagenomics} \textit{PLoS One}. DOI: 10.1371/journal.pone.0209221
  \item \textbf{Getz, L.J.\textsuperscript{\#}}, Dellaire, G.\textsuperscript{\#} (2018). \href{https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30207-5}{Angels and Devils: Dual-Use in Biotechnology.} \textit{Trends in Biotechnology}. DOI: 10.1016/j.tibtech.2018.07.016
- \item Runté, C., Jain, U., \textbf{Getz, L.J.}, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A.\textsuperscript{\#} (2018). \href{http://onlinelibrary.wiley.com/doi/10.1111/mmi.13948/full}{Tandem tyrosine phosphosites in the enteropathogenic \textit{Escherichia coli} chaperone CesT are required for differential type III effector translocation and virulence.} \textit{Molecular Microbiology}. DOI: 10.1111/mmi.13948
+ \item Runté, C., Jain, U., \textbf{Getz, L.J.}, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A.\textsuperscript{\#} (2018). \href{https://onlinelibrary.wiley.com/doi/10.1111/mmi.13948}{Tandem tyrosine phosphosites in the enteropathogenic \textit{Escherichia coli} chaperone CesT are required for differential type III effector translocation and virulence.} \textit{Molecular Microbiology}. DOI: 10.1111/mmi.13948
  \item \textbf{Getz, L.J.} Thomas, N.A.\textsuperscript{\#} (2018). \href{http://jb.asm.org/content/200/15/e00653-17.abstract}{The Transcriptional Regulator HlyU is a Positive Regulator for Expression of \textit{exsA} Leading to Type III Secretion System-1 Activation in \textit{Vibrio parahaemolyticus}} \textit{Journal of Bacteriology}. DOI: 10.1128/JB.00653-17
  \item \textbf{Getz, L.J.}, Finlayson-Trick, E.C.L.\*, Slaine, P.D.\*, Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z.\textsuperscript{\#} (2017). \href{http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189404}{Taxonomic differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals.} \textit{PLoS One}. DOI: 10.1371/journal.pone.0189404
  \end{etaremune}
